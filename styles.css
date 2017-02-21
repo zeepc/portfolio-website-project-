@@ -1,0 +1,52 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #b7acc4;
+	font-weight: 300; /*  inherited properties */
+
+}
+img {
+	max-width: 100% !important;
+}
+
+p {
+	color: #585060;
+	font-weight: 300;
+
+}
+
+h4 {
+	color: #585060;
+	font-weight: 300;
+
+}
+#mainimage img {
+	max-width: 100%;
+	max-height: 100%;
+
+}
+
+.title-logo {
+	max-width: 100%;
+
+
+}
+
+#container {
+	margin: 0 auto;
+	max-width: 18000px; /*  really big width, for responsiveness */
+}
+
+.text-muted{
+	color:#8C8888;
+}
+.text-thin{
+	font-weight: 100;
+}
+
+.title-super{
+	font-size: 60px; 
+}
+
+.title-logo{
+	margin-top: 20px;
+}
